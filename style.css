@@ -1,6 +1,7 @@
 
 
 body  {
+
   position: relative;
   background-color: #A49966;
   opacity: 85%;
@@ -8,10 +9,12 @@ body  {
 
 }
 
+
 p1 {
 
   padding-left: 30px;
   padding-right: 30px;
+
 }
 
 footer {
