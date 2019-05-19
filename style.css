@@ -2,11 +2,14 @@
 
 body  {
   position: relative;
-  background-color: Red;
+  background-color: #A49966;
+  opacity: 85%;
   font-family: 'Black Ops One', cursive;
+
 }
 
 p1 {
+
   padding-left: 30px;
   padding-right: 30px;
 }
@@ -23,6 +26,7 @@ footer {
 
 nav {
   background-color: grey;
+  opacity: 75%;
   display: flex;
   list-style: none;
 }
